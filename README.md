@@ -5,7 +5,7 @@
 Foi desenvolvido em Kotlin utilizando os mais avançados recursos que a linguagem oferece como arquitetura MVVM e Coroutines, como também, os recursos do framework Retrofit para comunicação com API Rest e recursos das bibliotecas Jetpack como Databinding.
 
 Com base nos requerimentos e instruções fornecidas para desenvolvimento foi implementado as seguintes funcionalidades:
-- Busca por cpf para validação de votação;
+- Busca por CPF para validação de votação;
 - Construção de tela via Json, fornecido via API.
 
 
@@ -50,3 +50,6 @@ Como pode ser visto na imagem anterior, a arquitetura divide-se em três camadas
 - [Koleton](https://github.com/ericktijerou/koleton) Fornece uma maneira fácil de mostrar o esqueleto de qualquer visualização, útil para estados de loading.
 - [Valifi](https://github.com/mlykotom/valifi) Usada para validação de formulário. Possui suporte a databinding.
 
+---
+[apk-download]: https://img.shields.io/badge/download%20apk-DEBUG-blue.svg?style=for-the-badge&logo=android
+[apk-download-url]: https://github.com/rodrigobn/test-sicredi/releases/download/1.0.0/sicredi-test_v1.0.0-debug.apk
