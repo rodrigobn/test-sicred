@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MESSAGE ERROR -->
+    <string name="message_error_conn">Não foi possível conectar aos nossos servidores. Por favor, verifique sua conexão!</string>
+    <string name="message_error_400">A operação não pode ser completada. Forneça todas as informações solicitadas e tente novamente&#8230;</string>
+    <string name="message_error_500">Ocorreu um erro na comunicação com o servidor. Por favor, tente novamente mais tarde&#8230;</string>
+    <string name="message_events_no_data">Ops! Não foi possível encontrar eventos&#8230;</string>
+
+    <string name="tittle_screen_cpf">Digite seu CPF para saber se pode votar</string>
+    <string name="verify">verificar</string>
+    <string name="message_format_invalid">Formato inválido!</string>
+    <string name="message_cpf_required">Forneça um CPF valido!</string>
+    <string name="cpf">CPF</string>
+    <string name="message_processing_action"><![CDATA[Por favor, aguarde.\nEstamos processando a ação&#8230;]]></string>
+    <string name="message_error_401">Não encontrado</string>
+</resources>
